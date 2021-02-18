@@ -1,1 +1,2 @@
-# kawaii-entertainment.github.io
+# Kawaii Entertainment
+Aplikasi gratis nonton online streaming dan download Drama Korea (Drakor) dan Film Subtitle Indonesia.
